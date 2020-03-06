@@ -13,3 +13,7 @@ https://github.com/googlesamples/android-architecture/tree/todo-mvp-clean/
 activity过渡动画的五种实现
 
 http://www.jianshu.com/p/c21216bf5f82
+
+Android-Cookbook-Examples
+
+https://github.com/IanDarwin/Android-Cookbook-Examples
