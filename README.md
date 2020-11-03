@@ -27,3 +27,6 @@ https://blog.csdn.net/haigand/article/details/90489336
 
 AudioFlinger原理
 https://blog.csdn.net/u013928208/article/details/81628596
+
+
+https://blog.csdn.net/freshui/article/details/5993195
