@@ -30,3 +30,6 @@ https://blog.csdn.net/u013928208/article/details/81628596
 
 
 https://blog.csdn.net/freshui/article/details/5993195
+
+
+https://github.com/Timdk857/Android-Architecture-knowledge-2-
