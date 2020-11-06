@@ -33,3 +33,5 @@ https://blog.csdn.net/freshui/article/details/5993195
 
 
 https://github.com/Timdk857/Android-Architecture-knowledge-2-
+
+https://zhuanlan.zhihu.com/p/137152292
